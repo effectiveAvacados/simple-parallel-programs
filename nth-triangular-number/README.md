@@ -20,4 +20,4 @@ If you are using a Linux environment, you need to make the following changes to 
 1. Change the `#include <time.h>` to `#include <sys/time.h>`.
 2. Change the `mingw_gettimeofday()` function to `gettimeofday()`.
 
-Author - [@espurrr](https://github.com/espurrr)
+Author - [@espurrr](https://github.com/espurrr) 👻
