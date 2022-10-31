@@ -41,16 +41,16 @@ The programs are written in C and are compiled using gcc.
     ```
 
 ## How to contribute
-1.  Fork the repo
-2.  Clone the repo
-3.  Create a new branch
-4.  Add a new folder for the program you want to add
-5.  Add the following files in the folder:
+1.  Fork the repo.
+2.  Clone the repo.
+3.  Create a new branch.
+4.  Add a new folder for the program you want to add.
+5.  Add one or more of the following files in the folder:
     -  `seq.c` - Sequential implementation
     -  `omp.c` - OpenMP implementation
     -  `pthread.c` - Pthread implementation
 6.  Add a README.md file in the folder. Describe the problem addressed by the program.
-7. Commit and push the changes to your forked repo
-8. Create a pull request
+7. Commit and push the changes to your forked repo.
+8. Create a pull request.
 
 Hope you find this repo useful. Happy coding! ❤
