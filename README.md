@@ -3,6 +3,9 @@ A collection of simple applications to understand OpenMP and Pthread coding with
 
 ## What the repo has
 This repo has Sequential, OpenMP and Pthread implementations of the following programs:
+- first-n-prime-numbers
+- matrix-multiplication
+- nth-triangular-number
 
 \
 The programs are written in C and are compiled using gcc.
