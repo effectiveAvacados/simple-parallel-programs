@@ -1,8 +1,5 @@
 // Sequential code to get first n prime numbers
-
-// Language: C
-// Author:   H. B. V. U. Dayaratne
-// Index No: 18000292
+// Note: Refer README file for more information.
 
 #include <stdio.h>
 #include <stdlib.h>
