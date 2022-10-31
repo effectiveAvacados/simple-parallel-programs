@@ -9,12 +9,13 @@ The programs are written in C and are compiled using gcc.
 
 ## How to run
 1.  Clone the repo
-2.  Run the following commands in the terminal:
+2.  Run the following command in the terminal:
 
     ``` 
     cd <folder_name>    
     ```
-    This will take you to the folder of the program you want to run. Once you are in the folder, you will see that there are 3 code files:
+    This will take you to the folder of the program you want to run. 
+3.  Once you are in the folder, you will see that there are 3 code files:
     1.  seq.c
     2.  omp.c
     3.  pthread.c
@@ -22,6 +23,8 @@ The programs are written in C and are compiled using gcc.
     \
     The seq.c file contains the sequential implementation of the program. The omp.c file contains the OpenMP implementation of the program. The pthread.c file contains the Pthread implementation of the program.
     
+    Make any necessary changes to the code with respect to your environment as specified in the `<folder_name>/README.md` file.
+
     To run the sequential implementation, run the following command:
     ```
     gcc seq.c -o seq
